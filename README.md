@@ -31,3 +31,16 @@ __Learning Outcomes:__
 * Identified and seized appropriate opportunities for generating business value through data analytics processes.
 
 __Assessment:__ Referring to a given dataset and corresponding business scenario, use SQL and Excel to identify insights through data analysis. Create a dashboard using Tableau to communicate insights alongside critical business metrics to help key stakeholders make data-informed decisions.
+
+## Course Two: Data Analytics with Python
+__Healthcare Appointments Project__
+
+__Python | GitHub__
+
+| Topic                                | Content                                                                |
+| ------------------------------------ | ------------------------------------------------------------------------------- |
+| __Python Fundamentals__              | Numpy, Pandas, DateTime, wrangling and analyzing data in Pandas, user-defined functions. |
+| __Data Visualization with Python__   | Visualization and Design Principles, Matplotlib, Seaborn, outlier analysis.  |
+| __Data Scraping with Python__        | HTML, web scraping with Beautiful Soup, Using APIs, API access and authorization, HTTP requests. |
+| __Business Forecasting with Python__ | Presenting business forecasting models, time-series forecasting, Autonomous and intelligent systems (AIS), and algorithm bias. |
+| __Team Communication and Github__    | Continuous improvement and version control, forking a repo, push/pull requests, data ethics and regulations. |
