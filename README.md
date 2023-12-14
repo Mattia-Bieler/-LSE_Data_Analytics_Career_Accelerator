@@ -7,7 +7,8 @@ A pivotal aspect of my advancement centered around the enhancement of my coding 
 
 Structured around three core courses and a group employer project, the program facilitated the creation of a robust portfolio (https://www.bulbapp.com/Mattia-Bieler/portfolio) that effectively highlights my newfound skills and competencies. I am now well-equipped and confident to tackle intricate business challenges, armed with data-driven solutions applicable to any organisational context.
 
-## Course One: Business Analytics (Supermarket Advertisement and Sales Project)
+## Course One: Business Analytics 
+### (Supermarket Advertisement and Sales Project)
 __Relational Database Management | Excel | SQL | pgAdmin | Tableau__
 
 | Topic | Content |
