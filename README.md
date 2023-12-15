@@ -19,7 +19,7 @@ __Relational Database Management | Excel | SQL | pgAdmin | Tableau__
 | __Tableau__ |  Data manipulation, visualising complex relationships, interactive visualisations, designing dashboards, testing and optimising dashboards, and dashboard accessibility. |
 | __Relational Database Management__  | Foundations of database design, conceptual and logical design, and creating entity-relationship diagrams. |
 | __SQL__ | Foundations of SQL, creating databases, retrieving data, writing queries, updating databases, and data cleaning with SQL. |
-| __Analysing Data with SQL__| Working with multiple tables, executing joins, querying multiple tables, increasing retrieval speed using indexing. |
+| __Analysing Data with SQL__| Working with multiple tables, executing joins, querying multiple tables, and increasing retrieval speed using indexing. |
 | __Data Ethics__ | Working with sensitive data and GDPR. |
 
 __Learning Outcomes:__
