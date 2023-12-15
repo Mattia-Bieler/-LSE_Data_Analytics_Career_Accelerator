@@ -10,7 +10,6 @@ Structured around three core courses and a group employer project, the program f
 
 ## Course One: Business Analytics 
 __Supermarket Advertisement and Sales Project__
-
 __Relational Database Management | Excel | SQL | pgAdmin | Tableau__
 
 | Topic | Content |
