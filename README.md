@@ -14,13 +14,13 @@ __Relational Database Management | Excel | SQL | pgAdmin | Tableau__
 
 | Topic | Content |
 | -------- | -------- |
-| __The Data Analytics Process__ | Data structures and sources, the data analytics process, defining and solving business problems, data-driven decision making, structured thinking, stakeholder management and communication. |
-| __Excel for Data Analysis__ | Excel fundamentals, transforming data, pivot tables, filtering, data visualisation. |
-| __Tableau__ |  Data manipulation, visualising complex relationships, interactive visualisations, designing dashboards, testing and optimising dashboards, dashboard accessibility. |
-| __Relational Database Management__  | Foundations of database design, conceptual and logical design, creating entity-relationship diagrams. |
-| __SQL__ | Foundations of SQL, creating databases, retrieving data, writing queries, updating databases, data cleaning with SQL, pSQL. |
-| __Analysing Data with SQL__| Working with multiple tables, executing joins, querying multiple tables, increasing retrieval speed using indexing.|
-| __Data Ethics__ | Working with sensitive data, GDPR. |
+| __The Data Analytics Process__ | Data structures and sources, the data analytics process, defining and solving business problems, data-driven decision making, structured thinking, and stakeholder management and communication. |
+| __Excel for Data Analysis__ | Excel fundamentals, transforming data, pivot tables, filtering, and data visualisation. |
+| __Tableau__ |  Data manipulation, visualising complex relationships, interactive visualisations, designing dashboards, testing and optimising dashboards, and dashboard accessibility. |
+| __Relational Database Management__  | Foundations of database design, conceptual and logical design, and creating entity-relationship diagrams. |
+| __SQL__ | Foundations of SQL, creating databases, retrieving data, writing queries, updating databases, and data cleaning with SQL. |
+| __Analysing Data with SQL__| Working with multiple tables, executing joins, querying multiple tables, increasing retrieval speed using indexing. |
+| __Data Ethics__ | Working with sensitive data and GDPR. |
 
 __Learning Outcomes:__
 * Identified, sourced, and cleaned data from diverse sources, laying the foundation for essential analysis processes.
@@ -30,7 +30,7 @@ __Learning Outcomes:__
 * Effectively communicated well-justified, relevant, and valuable insights to key business stakeholders.
 * Identified and seized appropriate opportunities for generating business value through data analytics processes.
 
-__Assessment:__ Referring to a given dataset and corresponding business scenario, use SQL and Excel to identify insights through data analysis. Create a dashboard using Tableau to communicate insights alongside critical business metrics to help key stakeholders make data-informed decisions.
+__Assessment:__ Referring to a given dataset and corresponding business scenario, use SQL and Excel to identify insights through data analysis. Create a dashboard using Tableau to communicate insights alongside critical business metrics to help key stakeholders make data-informed decisions and communicate key findings.
 
 ## Course Two: Data Analytics with Python
 __Healthcare Appointments Project__
@@ -39,8 +39,17 @@ __Python | GitHub__
 
 | Topic                                | Content                                                                |
 | ------------------------------------ | ------------------------------------------------------------------------------- |
-| __Python Fundamentals__              | Numpy, Pandas, DateTime, wrangling and analyzing data in Pandas, user-defined functions. |
-| __Data Visualization with Python__   | Visualization and Design Principles, Matplotlib, Seaborn, outlier analysis.  |
-| __Data Scraping with Python__        | HTML, web scraping with Beautiful Soup, Using APIs, API access and authorization, HTTP requests. |
-| __Business Forecasting with Python__ | Presenting business forecasting models, time-series forecasting, Autonomous and intelligent systems (AIS), and algorithm bias. |
+| __Python Fundamentals__              | Numpy, Pandas, DateTime, wrangling and analyzing data in Pandas, and user-defined functions. |
+| __Data Visualisation with Python__   | Visualisation and design principles, Matplotlib, Seaborn, and outlier analysis.  |
+| __Data Scraping with Python__        | HTML, web scraping with Beautiful Soup, using APIs, API access and authorisation, and HTTP requests. |
+| __Business Forecasting with Python__ | Presenting business forecasting models, time-series forecasting, autonomous and intelligent systems (AIS), and algorithm bias. |
 | __Team Communication and Github__    | Continuous improvement and version control, forking a repo, push/pull requests, data ethics and regulations. |
+
+__Learning Outcomes:__
+* Utilised Python to collect and import substantial and intricate data using various techniques, including web scraping and APIs.
+* Employed Python to effectively wrangle and prepare data for analysis.
+* Executed advanced analytical processes to extract crucial business insights from complex data sets.
+* Produced comprehensive and intricate visualisations for gathering insights, studying trends, and presenting findings that informed critical business decisions.
+* Articulated and justified approaches, insights, and recommendations to shape and inform business strategies.
+
+__Assessment:__ Referring to a given dataset and corresponding business scenario, use Python to perform an exploratory data analysis to uncover insights and identify potential causes. Through analysis and visualisation, determine contributing factors to trends and insights, and communicate key findings. 
