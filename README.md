@@ -10,6 +10,7 @@ Structured around three core courses and a group employer project, the program f
 
 ## Course One: Business Analytics 
 __Supermarket Advertisement and Sales Project__
+
 __Relational Database Management | Excel | SQL | pgAdmin | Tableau__
 
 | Topic | Content |
@@ -77,7 +78,4 @@ __Assessment:__ Referring to a given dataset and corresponding business scenario
 
 
 ## Bank Speeches Impact Project (Employer Project)
-
-
-
 Collaborate with fellow learners on a real-world employer project that serves as the culmination of the skills acquired in the first three courses. This project, meticulously designed by FourthRev, a leading technology company, mirrors the practical skills demanded by the industry. It necessitates the synthesis of methods and techniques developed throughout the courses, all rooted in a genuine employer need and interest. This hands-on experience will not only showcase your proficiency but also provide invaluable insights into applying learned concepts to real-world scenarios.
