@@ -7,6 +7,7 @@ A pivotal aspect of my advancement centered around the enhancement of my coding 
 
 Structured around three core courses and a group employer project, the program facilitated the creation of a robust portfolio (https://www.bulbapp.com/Mattia-Bieler/portfolio) that effectively highlights my newfound skills and competencies. I am now well-equipped and confident to tackle intricate business challenges, armed with data-driven solutions applicable to any organisational context.
 
+
 ## Course One: Business Analytics 
 __Supermarket Advertisement and Sales Project__
 
@@ -32,6 +33,7 @@ __Learning Outcomes:__
 
 __Assessment:__ Referring to a given dataset and corresponding business scenario, use SQL and Excel to identify insights through data analysis. Create a dashboard using Tableau to communicate insights alongside critical business metrics to help key stakeholders make data-informed decisions and communicate key findings.
 
+
 ## Course Two: Data Analytics with Python
 __Healthcare Appointments Project__
 
@@ -53,3 +55,30 @@ __Learning Outcomes:__
 * Articulated and justified approaches, insights, and recommendations to shape and inform business strategies.
 
 __Assessment:__ Referring to a given dataset and corresponding business scenario, use Python to perform an exploratory data analysis to uncover insights and identify potential causes. Through analysis and visualisation, determine contributing factors to trends and insights, and communicate key findings. 
+
+
+## Course Three: Advanced Analytics and Organisational Impact
+__Game Company Sales Performance Project__
+
+ __Python (SciPy, scikit-learn, Statsmodels) | R | GitHub__
+ 
+| Topic                               | Content                                                                      |
+| ----------------------------------- | ----------------------------------------------------------------------------- |
+| __Predictive Modeling__             | Hypothesis testing, A/B testing, sensitivity/what is analysis, linear regression, multiple linear regression, logistic regression, multinomial logistic regression, decision trees, random forests, k-means clustering, and support vector machine models. |
+| __Sentiment Analysis with NLP__     | Preprocessing, applying NLP, Naive Bayes, VADER sentiment analysis on social media data, customer feedback data, and reviews. |
+| __Exploratory Analysis and Visualisations in R__ | Transforming data with dplyr, data wrangling and manipulation, Plotly, ggplot2, multivariate graphs, statistical analysis (descriptive and inferential statistics), time series and ARMA modelling, linear regression, and clustering. |
+
+__Learning Outcomes:__
+* Applied predictive models to translate insights into actionable strategies, supporting business objectives.
+* Established methodologies and fostered a culture conducive to effective and ethical data-driven business practices.
+* Created advanced data visualisations and data stories to convey compelling, guided narratives, effectively aiding in business decision-making.
+* Solved real-world business problems and provided well-justified strategic recommendations using best practices and advanced data analysis approaches.
+
+__Assessment:__ Referring to a given dataset and corresponding business scenario, use Python and R to perform an exploratory data analysis to predict future outcomes. Make business recommendations based on those predictions using visualisations and communicate key insights.
+
+
+## Bank Speeches Impact Project (Employer Project)
+
+
+
+Collaborate with fellow learners on a real-world employer project that serves as the culmination of the skills acquired in the first three courses. This project, meticulously designed by FourthRev, a leading technology company, mirrors the practical skills demanded by the industry. It necessitates the synthesis of methods and techniques developed throughout the courses, all rooted in a genuine employer need and interest. This hands-on experience will not only showcase your proficiency but also provide invaluable insights into applying learned concepts to real-world scenarios.
