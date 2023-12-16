@@ -1,5 +1,5 @@
 # LSE Data Analytics Career Accelerator
-__Excel | R | Python | SQL | Tableau__
+__Excel | Python | R | SQL | Tableau__
 
 The London School of Economics and Political Science (LSE) Data Analytics Career Accelerator has been a transformative experience, providing me with the essential skills and knowledge to spearhead data-informed decision-making across diverse industries. Over the intensive 6-month duration of the program, I have acquired a comprehensive skill set in data analytics, encompassing sophisticated databases and a variety of analytical tools.
 
