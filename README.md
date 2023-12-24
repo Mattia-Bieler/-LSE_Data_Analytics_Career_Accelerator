@@ -1,3 +1,4 @@
+![LSE](https://github.com/Mattia-Bieler/LSE_Data_Analytics_Career_Accelerator/assets/132078605/5bb17391-78df-4b03-9a04-0f040b80f02c)
 # LSE Data Analytics Career Accelerator
 __Excel | Python | R | SQL | Tableau__
 
