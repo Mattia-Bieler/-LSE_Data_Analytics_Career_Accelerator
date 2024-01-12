@@ -40,7 +40,7 @@ __Python | GitHub__
 
 | Topic                                | Content                                                                |
 | ------------------------------------ | ------------------------------------------------------------------------------- |
-| __Python Fundamentals__              | Numpy, Pandas, DateTime, wrangling and analyzing data in Pandas, and user-defined functions. |
+| __Python Fundamentals__              | Numpy, Pandas, DateTime, wrangling and analysing data in Pandas, and user-defined functions. |
 | __Data Visualisation with Python__   | Visualisation and design principles, Matplotlib, Seaborn, and outlier analysis.  |
 | __Data Scraping with Python__        | HTML, web scraping with Beautiful Soup, using APIs, API access and authorisation, and HTTP requests. |
 | __Business Forecasting with Python__ | Presenting business forecasting models, time-series forecasting, autonomous and intelligent systems (AIS), and algorithm bias. |
